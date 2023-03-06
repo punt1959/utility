@@ -23,7 +23,7 @@ add_library(utility STATIC
     timer.cpp
     
     buffer.hpp
-    sfilemap.hpp
+    filemap.hpp
     timer.hpp
     strutil.hpp
     numinc.hpp
