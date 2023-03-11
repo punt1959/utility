@@ -27,6 +27,7 @@ add_library(utility STATIC
     timer.hpp
     strutil.hpp
     numinc.hpp
+    random.hpp
 )
 
 if (WIN32)
